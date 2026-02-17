@@ -1,0 +1,8 @@
+pyautogen 
+crewai 
+langchain 
+langgraph 
+openai 
+python-dotenv 
+google-cloud-aiplatform
+autogen
