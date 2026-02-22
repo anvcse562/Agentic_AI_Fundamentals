@@ -1,0 +1,1504 @@
+[
+    {
+        "product": "LiteProduct 1",
+        "category": "Home & Kitchen",
+        "description": "A high-quality Product for everyday use in the Home & Kitchen category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "MaxProduct 2",
+        "category": "Wearables",
+        "description": "A high-quality Product for everyday use in the Wearables category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "EliteThermostat 3",
+        "category": "Smart Home",
+        "description": "Automate your living space with this Elite Thermostat.",
+        "specs": "WiFi 6, Proprietary app control, Alexa/Google assistant compatible."
+    },
+    {
+        "product": "EssentialMonitor 4",
+        "category": "Electronics",
+        "description": "A high-definition Monitor featuring Essential technology.",
+        "specs": "4K resolution, 40h battery, HDMI connectivity."
+    },
+    {
+        "product": "ProProduct 5",
+        "category": "Wearables",
+        "description": "A high-quality Product for everyday use in the Wearables category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "ProProduct 6",
+        "category": "Office",
+        "description": "A high-quality Product for everyday use in the Office category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "AdvancedTablet 7",
+        "category": "Electronics",
+        "description": "A high-definition Tablet featuring Advanced technology.",
+        "specs": "8K resolution, 40h battery, USB-C connectivity."[
+  {
+    "product": "LiteProduct 1",
+    "category": "Home Organization",
+    "price": "$25",
+    "rating": "4.5",
+    "reviews": "120",
+    "description": "Minimalist shelf for organizing everyday home items.",
+    "specs": "Plastic, 5kg limit"
+  },
+  {
+    "product": "MaxProduct 2",
+    "category": "Home Organization",
+    "price": "$45",
+    "rating": "4.8",
+    "reviews": "85",
+    "description": "Heavy duty organizer suitable for closets and garages.",
+    "specs": "Steel, 20kg limit"
+  },
+  {
+    "product": "EliteThermostat 3",
+    "category": "Smart Home",
+    "price": "$180",
+    "rating": "4.7",
+    "reviews": "210",
+    "description": "Premium smart thermostat to automate your living space.",
+    "specs": "WiFi 6, proprietary app, Alexa/Google compatible"
+  },
+  {
+    "product": "EssentialMonitor 4",
+    "category": "Electronics",
+    "price": "$220",
+    "rating": "4.3",
+    "reviews": "95",
+    "description": "Essential 4K monitor for work and entertainment.",
+    "specs": "4K resolution, 40h battery, HDMI"
+  },
+  {
+    "product": "ProProduct 5",
+    "category": "Wearables",
+    "price": "$60",
+    "rating": "4.6",
+    "reviews": "140",
+    "description": "Premium wearable accessory for daily use.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "ProProduct 6",
+    "category": "Office",
+    "price": "$55",
+    "rating": "4.4",
+    "reviews": "110",
+    "description": "Professional office accessory for everyday tasks.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "AdvancedTablet 7",
+    "category": "Electronics",
+    "price": "$320",
+    "rating": "4.6",
+    "reviews": "175",
+    "description": "High-end tablet with advanced display technology.",
+    "specs": "8K resolution, 40h battery, USB‑C"
+  },
+  {
+    "product": "SmartKit 8",
+    "category": "Wearables",
+    "price": "$40",
+    "rating": "4.3",
+    "reviews": "90",
+    "description": "Wearable starter kit for everyday convenience.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "AdvancedProjector 9",
+    "category": "Electronics",
+    "price": "$450",
+    "rating": "4.5",
+    "reviews": "130",
+    "description": "Advanced 4K projector for home theater setups.",
+    "specs": "4K resolution, 20h battery, USB‑C"
+  },
+  {
+    "product": "AdvancedLock 10",
+    "category": "Smart Home",
+    "price": "$160",
+    "rating": "4.4",
+    "reviews": "105",
+    "description": "Smart lock with advanced security features.",
+    "specs": "WiFi 6, proprietary app, Alexa/Google compatible"
+  },
+  {
+    "product": "LiteSmartphone 11",
+    "category": "Electronics",
+    "price": "$280",
+    "rating": "4.2",
+    "reviews": "150",
+    "description": "Lightweight smartphone for everyday communication.",
+    "specs": "1080p display, 40h battery, USB‑C"
+  },
+  {
+    "product": "EssentialHeadphones 12",
+    "category": "Audio",
+    "price": "$70",
+    "rating": "4.4",
+    "reviews": "200",
+    "description": "Essential over‑ear headphones with active noise cancellation.",
+    "specs": "Bluetooth 5.3, 10Hz–40kHz, 20h battery life"
+  },
+  {
+    "product": "ProAccessory 13",
+    "category": "Home & Kitchen",
+    "price": "$30",
+    "rating": "4.3",
+    "reviews": "80",
+    "description": "Professional‑grade kitchen accessory for daily use.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "AdvancedSoundbar 14",
+    "category": "Audio",
+    "price": "$190",
+    "rating": "4.6",
+    "reviews": "160",
+    "description": "Advanced soundbar with immersive surround sound.",
+    "specs": "Bluetooth 5.3, 20Hz–20kHz, 20h battery life"
+  },
+  {
+    "product": "SmartProjector 15",
+    "category": "Electronics",
+    "price": "$500",
+    "rating": "4.6",
+    "reviews": "140",
+    "description": "Smart 8K projector for streaming and presentations.",
+    "specs": "8K resolution, 40h battery, wireless"
+  },
+  {
+    "product": "PremiumProjector 16",
+    "category": "Electronics",
+    "price": "$650",
+    "rating": "4.7",
+    "reviews": "180",
+    "description": "Premium 8K projector for high‑end home theaters.",
+    "specs": "8K resolution, 40h battery, wireless"
+  },
+  {
+    "product": "ProSoundbar 17",
+    "category": "Audio",
+    "price": "$210",
+    "rating": "4.5",
+    "reviews": "130",
+    "description": "Pro soundbar with hybrid noise control and deep bass.",
+    "specs": "Bluetooth 5.3, 20Hz–20kHz, 20h battery life"
+  },
+  {
+    "product": "EcoAccessory 18",
+    "category": "Peripherals",
+    "price": "$25",
+    "rating": "4.3",
+    "reviews": "70",
+    "description": "Eco‑friendly peripheral accessory for daily use.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "UltraBike 19",
+    "category": "Fitness",
+    "price": "$380",
+    "rating": "4.6",
+    "reviews": "95",
+    "description": "High‑performance stationary bike for serious workouts.",
+    "specs": "Eco materials, 250lb capacity, lifetime durability"
+  },
+  {
+    "product": "AdvancedTablet 20",
+    "category": "Electronics",
+    "price": "$310",
+    "rating": "4.5",
+    "reviews": "120",
+    "description": "Advanced tablet for productivity and media.",
+    "specs": "8K resolution, 10h battery, wireless"
+  },
+  {
+    "product": "MaxSpeaker 21",
+    "category": "Audio",
+    "price": "$150",
+    "rating": "4.5",
+    "reviews": "145",
+    "description": "Powerful portable speaker for indoor and outdoor use.",
+    "specs": "Bluetooth 5.3, 10Hz–40kHz, 40h battery life"
+  },
+  {
+    "product": "EssentialHeadphones 22",
+    "category": "Audio",
+    "price": "$80",
+    "rating": "4.4",
+    "reviews": "210",
+    "description": "Essential headphones with passive noise isolation.",
+    "specs": "Bluetooth 5.3, 20Hz–20kHz, 50h battery life"
+  },
+  {
+    "product": "UltraHeadphones 23",
+    "category": "Audio",
+    "price": "$120",
+    "rating": "4.6",
+    "reviews": "190",
+    "description": "Ultra‑premium headphones for audiophiles.",
+    "specs": "Bluetooth 5.3, 20Hz–20kHz, 40h battery life"
+  },
+  {
+    "product": "ProLaptop 24",
+    "category": "Computing",
+    "price": "$1400",
+    "rating": "4.7",
+    "reviews": "220",
+    "description": "Pro laptop designed for demanding workloads.",
+    "specs": "M2 chip, 8GB RAM, 2TB SSD"
+  },
+  {
+    "product": "AdvancedTool 25",
+    "category": "Beauty",
+    "price": "$45",
+    "rating": "4.3",
+    "reviews": "75",
+    "description": "Advanced beauty tool for daily routines.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "AdvancedServer 26",
+    "category": "Computing",
+    "price": "$1700",
+    "rating": "4.6",
+    "reviews": "90",
+    "description": "Advanced server for multitasking and small deployments.",
+    "specs": "M2 chip, 8GB RAM, 512GB SSD"
+  },
+  {
+    "product": "MaxKit 27",
+    "category": "Home & Kitchen",
+    "price": "$55",
+    "rating": "4.4",
+    "reviews": "80",
+    "description": "Max‑capacity home kit for organization and storage.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "EcoProduct 28",
+    "category": "Home & Kitchen",
+    "price": "$30",
+    "rating": "4.3",
+    "reviews": "70",
+    "description": "Eco‑friendly household product for everyday use.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "LiteSoundbar 29",
+    "category": "Audio",
+    "price": "$110",
+    "rating": "4.3",
+    "reviews": "100",
+    "description": "Lightweight soundbar with active noise features.",
+    "specs": "Bluetooth 5.3, 20Hz–20kHz, 50h battery life"
+  },
+  {
+    "product": "ProProduct 30",
+    "category": "Books",
+    "price": "$25",
+    "rating": "4.2",
+    "reviews": "65",
+    "description": "Professional‑themed guidebook for everyday productivity.",
+    "specs": "Softcover, 250 pages"
+  },
+  {
+    "product": "LiteTool 31",
+    "category": "Home & Kitchen",
+    "price": "$20",
+    "rating": "4.2",
+    "reviews": "60",
+    "description": "Lightweight home tool for simple household tasks.",
+    "specs": "Plastic, ergonomic grip"
+  },
+  {
+    "product": "PremiumAccessory 32",
+    "category": "Wearables",
+    "price": "$70",
+    "rating": "4.6",
+    "reviews": "95",
+    "description": "Premium wearable accessory with stylish design.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "UltraKit 33",
+    "category": "Wearables",
+    "price": "$75",
+    "rating": "4.5",
+    "reviews": "90",
+    "description": "Ultra kit bundle for wearable accessories.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "AdvancedTool 34",
+    "category": "Office",
+    "price": "$40",
+    "rating": "4.3",
+    "reviews": "70",
+    "description": "Advanced office tool for organization and productivity.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "PremiumDesktop 35",
+    "category": "Computing",
+    "price": "$1900",
+    "rating": "4.7",
+    "reviews": "85",
+    "description": "Premium desktop for high‑end creative workloads.",
+    "specs": "M2 chip, 64GB RAM, 512GB SSD"
+  },
+  {
+    "product": "LiteLaptop 36",
+    "category": "Computing",
+    "price": "$1100",
+    "rating": "4.4",
+    "reviews": "130",
+    "description": "Lightweight laptop for students and professionals.",
+    "specs": "M2 chip, 16GB RAM, 2TB SSD"
+  },
+  {
+    "product": "LiteTool 37",
+    "category": "Beauty",
+    "price": "$25",
+    "rating": "4.2",
+    "reviews": "55",
+    "description": "Compact beauty tool for on‑the‑go grooming.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "UltraKit 38",
+    "category": "Peripherals",
+    "price": "$60",
+    "rating": "4.4",
+    "reviews": "75",
+    "description": "Ultra peripheral kit for desk setups.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "SmartTool 39",
+    "category": "Home & Kitchen",
+    "price": "$35",
+    "rating": "4.3",
+    "reviews": "80",
+    "description": "Smart home tool for daily kitchen tasks.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "EcoAccessory 40",
+    "category": "Office",
+    "price": "$28",
+    "rating": "4.2",
+    "reviews": "65",
+    "description": "Eco‑friendly office accessory to reduce waste.",
+    "specs": "Recycled materials, 1-year warranty"
+  },
+  {
+    "product": "MaxDumbbells 41",
+    "category": "Fitness",
+    "price": "$80",
+    "rating": "4.5",
+    "reviews": "120",
+    "description": "Heavy dumbbells for strength and endurance training.",
+    "specs": "Eco materials, 250lb capacity, lifetime durability"
+  },
+  {
+    "product": "EliteProduct 42",
+    "category": "Home & Kitchen",
+    "price": "$70",
+    "rating": "4.6",
+    "reviews": "90",
+    "description": "Elite household product with premium build quality.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "EcoCamera 43",
+    "category": "Smart Home",
+    "price": "$130",
+    "rating": "4.4",
+    "reviews": "110",
+    "description": "Eco‑minded smart security camera.",
+    "specs": "WiFi 6, proprietary app, Alexa/Google compatible"
+  },
+  {
+    "product": "MaxKit 44",
+    "category": "Peripherals",
+    "price": "$55",
+    "rating": "4.3",
+    "reviews": "70",
+    "description": "Max‑capacity peripheral kit for workstations.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "PremiumSoundbar 45",
+    "category": "Audio",
+    "price": "$230",
+    "rating": "4.7",
+    "reviews": "180",
+    "description": "Premium soundbar with powerful bass and active cancellation.",
+    "specs": "Bluetooth 5.3, 10Hz–40kHz, 50h battery life"
+  },
+  {
+    "product": "SmartLock 46",
+    "category": "Smart Home",
+    "price": "$150",
+    "rating": "4.5",
+    "reviews": "140",
+    "description": "Smart lock for convenient and secure access.",
+    "specs": "WiFi 6, proprietary app, Alexa/Google compatible"
+  },
+  {
+    "product": "EcoTool 47",
+    "category": "Books",
+    "price": "$18",
+    "rating": "4.1",
+    "reviews": "40",
+    "description": "Eco‑themed handbook on sustainable tools.",
+    "specs": "Softcover, 180 pages"
+  },
+  {
+    "product": "SmartTreadmill 48",
+    "category": "Fitness",
+    "price": "$650",
+    "rating": "4.6",
+    "reviews": "130",
+    "description": "Smart treadmill with connected workout tracking.",
+    "specs": "Eco materials, 250lb capacity, lifetime durability"
+  },
+  {
+    "product": "EssentialKit 49",
+    "category": "Books",
+    "price": "$22",
+    "rating": "4.2",
+    "reviews": "55",
+    "description": "Essential starter kit guide in book form.",
+    "specs": "Softcover, 220 pages"
+  },
+  {
+    "product": "PremiumYoga Mat 50",
+    "category": "Fitness",
+    "price": "$60",
+    "rating": "4.7",
+    "reviews": "150",
+    "description": "Premium yoga mat with extra grip and cushioning.",
+    "specs": "Eco materials, 250lb capacity, lifetime durability"
+  },
+  {
+    "product": "AdvancedTool 51",
+    "category": "Peripherals",
+    "price": "$40",
+    "rating": "4.3",
+    "reviews": "65",
+    "description": "Advanced peripheral tool for office setups.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "SmartBike 52",
+    "category": "Fitness",
+    "price": "$700",
+    "rating": "4.7",
+    "reviews": "125",
+    "description": "Connected indoor bike with smart training features.",
+    "specs": "Eco materials, 250lb capacity, lifetime durability"
+  },
+  {
+    "product": "ProKit 53",
+    "category": "Home & Kitchen",
+    "price": "$50",
+    "rating": "4.4",
+    "reviews": "85",
+    "description": "Pro‑level kitchen kit for serious home cooks.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "PremiumEarbuds 54",
+    "category": "Audio",
+    "price": "$140",
+    "rating": "4.6",
+    "reviews": "190",
+    "description": "Premium wireless earbuds with hybrid cancellation.",
+    "specs": "Bluetooth 5.3, 20Hz–20kHz, 40h battery life"
+  },
+  {
+    "product": "EcoAccessory 55",
+    "category": "Peripherals",
+    "price": "$28",
+    "rating": "4.2",
+    "reviews": "60",
+    "description": "Eco‑friendly accessory for desk peripherals.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "PremiumAccessory 56",
+    "category": "Books",
+    "price": "$24",
+    "rating": "4.3",
+    "reviews": "45",
+    "description": "Premium guide to organizing accessories and gear.",
+    "specs": "Softcover, 220 pages"
+  },
+  {
+    "product": "EcoDesktop 57",
+    "category": "Computing",
+    "price": "$1300",
+    "rating": "4.5",
+    "reviews": "95",
+    "description": "Energy‑efficient desktop for everyday workloads.",
+    "specs": "Intel i7, 32GB RAM, 2TB SSD"
+  },
+  {
+    "product": "MaxWorkstation 58",
+    "category": "Computing",
+    "price": "$1500",
+    "rating": "4.5",
+    "reviews": "90",
+    "description": "Max workstation for content creation and analysis.",
+    "specs": "Intel i7, 8GB RAM, 1TB SSD"
+  },
+  {
+    "product": "EcoDumbbells 59",
+    "category": "Fitness",
+    "price": "$65",
+    "rating": "4.4",
+    "reviews": "110",
+    "description": "Eco dumbbells made from sustainable material.",
+    "specs": "Eco materials, 250lb capacity, lifetime durability"
+  },
+  {
+    "product": "EcoSpeaker 60",
+    "category": "Audio",
+    "price": "$95",
+    "rating": "4.4",
+    "reviews": "130",
+    "description": "Eco‑conscious Bluetooth speaker with active cancellation.",
+    "specs": "Bluetooth 5.3, 20Hz–20kHz, 50h battery life"
+  },
+  {
+    "product": "EliteCamera 61",
+    "category": "Electronics",
+    "price": "$400",
+    "rating": "4.6",
+    "reviews": "115",
+    "description": "Elite camera for crisp photos and streaming.",
+    "specs": "1080p resolution, 10h battery, HDMI"
+  },
+  {
+    "product": "PremiumKit 62",
+    "category": "Books",
+    "price": "$26",
+    "rating": "4.3",
+    "reviews": "50",
+    "description": "Premium kit handbook for enthusiasts.",
+    "specs": "Softcover, 240 pages"
+  },
+  {
+    "product": "UltraKit 63",
+    "category": "Wearables",
+    "price": "$75",
+    "rating": "4.5",
+    "reviews": "85",
+    "description": "Ultra wearable kit with multiple accessories.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "MaxKit 64",
+    "category": "Home & Kitchen",
+    "price": "$55",
+    "rating": "4.4",
+    "reviews": "80",
+    "description": "Large home kit for multi‑room organization.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "UltraProduct 65",
+    "category": "Home & Kitchen",
+    "price": "$60",
+    "rating": "4.5",
+    "reviews": "85",
+    "description": "Ultra‑grade kitchen product with premium finish.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "EcoTool 66",
+    "category": "Beauty",
+    "price": "$30",
+    "rating": "4.3",
+    "reviews": "65",
+    "description": "Eco beauty tool made from sustainable materials.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "LiteKit 67",
+    "category": "Books",
+    "price": "$20",
+    "rating": "4.2",
+    "reviews": "42",
+    "description": "Light starter kit guide for beginners.",
+    "specs": "Softcover, 180 pages"
+  },
+  {
+    "product": "MaxProjector 68",
+    "category": "Electronics",
+    "price": "$520",
+    "rating": "4.6",
+    "reviews": "135",
+    "description": "Max 8K projector for large rooms and events.",
+    "specs": "8K resolution, 20h battery, USB‑C"
+  },
+  {
+    "product": "EssentialBike 69",
+    "category": "Fitness",
+    "price": "$320",
+    "rating": "4.4",
+    "reviews": "90",
+    "description": "Essential exercise bike for home cardio.",
+    "specs": "Eco materials, 250lb capacity, lifetime durability"
+  },
+  {
+    "product": "PremiumKit 70",
+    "category": "Wearables",
+    "price": "$70",
+    "rating": "4.5",
+    "reviews": "78",
+    "description": "Premium wearable kit for active lifestyles.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "EcoKit 71",
+    "category": "Office",
+    "price": "$40",
+    "rating": "4.3",
+    "reviews": "64",
+    "description": "Eco office kit to organize desk essentials.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "PremiumAccessory 72",
+    "category": "Books",
+    "price": "$24",
+    "rating": "4.3",
+    "reviews": "46",
+    "description": "Premium reference on managing accessories and gear.",
+    "specs": "Softcover, 230 pages"
+  },
+  {
+    "product": "EliteProduct 73",
+    "category": "Beauty",
+    "price": "$55",
+    "rating": "4.5",
+    "reviews": "70",
+    "description": "Elite beauty product for advanced routines.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "EssentialKit 74",
+    "category": "Peripherals",
+    "price": "$35",
+    "rating": "4.2",
+    "reviews": "58",
+    "description": "Essential peripheral kit for home offices.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "EliteTool 75",
+    "category": "Wearables",
+    "price": "$65",
+    "rating": "4.5",
+    "reviews": "72",
+    "description": "Elite wearable tool with premium craftsmanship.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "SmartLock 76",
+    "category": "Smart Home",
+    "price": "$150",
+    "rating": "4.5",
+    "reviews": "138",
+    "description": "Smart lock for multi‑user households.",
+    "specs": "WiFi 6, proprietary app, Alexa/Google compatible"
+  },
+  {
+    "product": "SmartThermostat 77",
+    "category": "Smart Home",
+    "price": "$170",
+    "rating": "4.6",
+    "reviews": "160",
+    "description": "Smart thermostat with adaptive scheduling.",
+    "specs": "WiFi 6, proprietary app, Alexa/Google compatible"
+  },
+  {
+    "product": "PremiumDumbbells 78",
+    "category": "Fitness",
+    "price": "$85",
+    "rating": "4.6",
+    "reviews": "118",
+    "description": "Premium dumbbells with comfortable grip.",
+    "specs": "Eco materials, 250lb capacity, lifetime durability"
+  },
+  {
+    "product": "ProAccessory 79",
+    "category": "Wearables",
+    "price": "$45",
+    "rating": "4.4",
+    "reviews": "80",
+    "description": "Professional wearable accessory for daily wear.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "AdvancedKit 80",
+    "category": "Beauty",
+    "price": "$50",
+    "rating": "4.4",
+    "reviews": "68",
+    "description": "Advanced beauty kit with multiple tools.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "PremiumTool 81",
+    "category": "Wearables",
+    "price": "$60",
+    "rating": "4.5",
+    "reviews": "74",
+    "description": "Premium wearable tool for repair and adjustment.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "SmartTool 82",
+    "category": "Books",
+    "price": "$22",
+    "rating": "4.2",
+    "reviews": "44",
+    "description": "Guidebook on using smart tools effectively.",
+    "specs": "Softcover, 200 pages"
+  },
+  {
+    "product": "AdvancedHeadphones 83",
+    "category": "Audio",
+    "price": "$130",
+    "rating": "4.5",
+    "reviews": "165",
+    "description": "Advanced headphones with active cancellation.",
+    "specs": "Bluetooth 5.3, 10Hz–40kHz, 20h battery life"
+  },
+  {
+    "product": "MaxProjector 84",
+    "category": "Electronics",
+    "price": "$540",
+    "rating": "4.6",
+    "reviews": "132",
+    "description": "Max 4K projector for flexible home cinema setups.",
+    "specs": "4K resolution, 40h battery, wireless"
+  },
+  {
+    "product": "MaxProduct 85",
+    "category": "Books",
+    "price": "$24",
+    "rating": "4.3",
+    "reviews": "48",
+    "description": "Comprehensive guidebook for maximum productivity.",
+    "specs": "Softcover, 260 pages"
+  },
+  {
+    "product": "PremiumDumbbells 86",
+    "category": "Fitness",
+    "price": "$90",
+    "rating": "4.6",
+    "reviews": "122",
+    "description": "Premium dumbbells with adjustable weight options.",
+    "specs": "Eco materials, 250lb capacity, lifetime durability"
+  },
+  {
+    "product": "PremiumAccessory 87",
+    "category": "Peripherals",
+    "price": "$40",
+    "rating": "4.4",
+    "reviews": "66",
+    "description": "Premium peripheral accessory with metal finish.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "EcoTool 88",
+    "category": "Books",
+    "price": "$21",
+    "rating": "4.2",
+    "reviews": "43",
+    "description": "Eco‑focused guide on sustainable tools.",
+    "specs": "Softcover, 210 pages"
+  },
+  {
+    "product": "EssentialKit 89",
+    "category": "Beauty",
+    "price": "$35",
+    "rating": "4.3",
+    "reviews": "60",
+    "description": "Essential beauty kit for daily grooming.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "AdvancedProduct 90",
+    "category": "Beauty",
+    "price": "$45",
+    "rating": "4.4",
+    "reviews": "63",
+    "description": "Advanced beauty product for targeted care.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "LiteKit 91",
+    "category": "Books",
+    "price": "$20",
+    "rating": "4.2",
+    "reviews": "41",
+    "description": "Light kit guide for quick reference.",
+    "specs": "Softcover, 170 pages"
+  },
+  {
+    "product": "ProThermostat 92",
+    "category": "Smart Home",
+    "price": "$190",
+    "rating": "4.6",
+    "reviews": "150",
+    "description": "Pro‑grade thermostat with advanced scheduling.",
+    "specs": "WiFi 6, proprietary app, Alexa/Google compatible"
+  },
+  {
+    "product": "UltraLaptop 93",
+    "category": "Computing",
+    "price": "$1600",
+    "rating": "4.7",
+    "reviews": "145",
+    "description": "Ultra laptop for intensive creative and analytic work.",
+    "specs": "Intel i7, 16GB RAM, 2TB SSD"
+  },
+  {
+    "product": "UltraProduct 94",
+    "category": "Peripherals",
+    "price": "$60",
+    "rating": "4.4",
+    "reviews": "68",
+    "description": "Ultra‑durable peripheral product with premium finish.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "MaxKit 95",
+    "category": "Books",
+    "price": "$25",
+    "rating": "4.3",
+    "reviews": "47",
+    "description": "Max kit manual for advanced setups.",
+    "specs": "Softcover, 250 pages"
+  },
+  {
+    "product": "PremiumTablet 96",
+    "category": "Electronics",
+    "price": "$420",
+    "rating": "4.6",
+    "reviews": "138",
+    "description": "Premium tablet for media consumption and note‑taking.",
+    "specs": "1080p resolution, 40h battery, USB‑C"
+  },
+  {
+    "product": "MaxAccessory 97",
+    "category": "Wearables",
+    "price": "$55",
+    "rating": "4.4",
+    "reviews": "76",
+    "description": "Max accessory bundle for wearable devices.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "SmartProduct 98",
+    "category": "Peripherals",
+    "price": "$50",
+    "rating": "4.3",
+    "reviews": "62",
+    "description": "Smart peripheral product with app integration.",
+    "specs": "Universal fit, durable design, 1-year warranty"
+  },
+  {
+    "product": "UltraProduct 99",
+    "category": "Books",
+    "price": "$26",
+    "rating": "4.3",
+    "reviews": "52",
+    "description": "Ultra‑detailed reference book for enthusiasts.",
+    "specs": "Softcover, 280 pages"
+  },
+  {
+    "product": "EssentialAccessory 100",
+    "category": "Books",
+    "price": "$22",
+    "rating": "4.2",
+    "reviews": "49",
+    "description": "Essential guide to choosing everyday accessories.",
+    "specs": "Softcover, 190 pages"
+  }
+]
+
+    },
+    {
+        "product": "SmartKit 8",
+        "category": "Wearables",
+        "description": "A high-quality Kit for everyday use in the Wearables category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "AdvancedProjector 9",
+        "category": "Electronics",
+        "description": "A high-definition Projector featuring Advanced technology.",
+        "specs": "4K resolution, 20h battery, USB-C connectivity."
+    },
+    {
+        "product": "AdvancedLock 10",
+        "category": "Smart Home",
+        "description": "Automate your living space with this Advanced Lock.",
+        "specs": "WiFi 6, Proprietary app control, Alexa/Google assistant compatible."
+    },
+    {
+        "product": "LiteSmartphone 11",
+        "category": "Electronics",
+        "description": "A high-definition Smartphone featuring Lite technology.",
+        "specs": "1080p resolution, 40h battery, USB-C connectivity."
+    },
+    {
+        "product": "EssentialHeadphones 12",
+        "category": "Audio",
+        "description": "Essential audio device with immersive sound and Active cancellation.",
+        "specs": "Bluetooth 5.3, 10Hz-40kHz frequency range, 20h battery life."
+    },
+    {
+        "product": "ProAccessory 13",
+        "category": "Home & Kitchen",
+        "description": "A high-quality Accessory for everyday use in the Home & Kitchen category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "AdvancedSoundbar 14",
+        "category": "Audio",
+        "description": "Advanced audio device with immersive sound and Active cancellation.",
+        "specs": "Bluetooth 5.3, 20Hz-20kHz frequency range, 20h battery life."
+    },
+    {
+        "product": "SmartProjector 15",
+        "category": "Electronics",
+        "description": "A high-definition Projector featuring Smart technology.",
+        "specs": "8K resolution, 40h battery, Wireless connectivity."
+    },
+    {
+        "product": "PremiumProjector 16",
+        "category": "Electronics",
+        "description": "A high-definition Projector featuring Premium technology.",
+        "specs": "8K resolution, 40h battery, Wireless connectivity."
+    },
+    {
+        "product": "ProSoundbar 17",
+        "category": "Audio",
+        "description": "Pro audio device with immersive sound and Hybrid cancellation.",
+        "specs": "Bluetooth 5.3, 20Hz-20kHz frequency range, 20h battery life."
+    },
+    {
+        "product": "EcoAccessory 18",
+        "category": "Peripherals",
+        "description": "A high-quality Accessory for everyday use in the Peripherals category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "UltraBike 19",
+        "category": "Fitness",
+        "description": "Enhance your workout with this Ultra Bike.",
+        "specs": "Eco-friendly material, 250lb capacity, Lifetime durability."
+    },
+    {
+        "product": "AdvancedTablet 20",
+        "category": "Electronics",
+        "description": "A high-definition Tablet featuring Advanced technology.",
+        "specs": "8K resolution, 10h battery, Wireless connectivity."
+    },
+    {
+        "product": "MaxSpeaker 21",
+        "category": "Audio",
+        "description": "Max audio device with immersive sound and Passive cancellation.",
+        "specs": "Bluetooth 5.3, 10Hz-40kHz frequency range, 40h battery life."
+    },
+    {
+        "product": "EssentialHeadphones 22",
+        "category": "Audio",
+        "description": "Essential audio device with immersive sound and Passive cancellation.",
+        "specs": "Bluetooth 5.3, 20Hz-20kHz frequency range, 50h battery life."
+    },
+    {
+        "product": "UltraHeadphones 23",
+        "category": "Audio",
+        "description": "Ultra audio device with immersive sound and Passive cancellation.",
+        "specs": "Bluetooth 5.3, 20Hz-20kHz frequency range, 40h battery life."
+    },
+    {
+        "product": "ProLaptop 24",
+        "category": "Computing",
+        "description": "Powerful Pro Laptop designed for demanding tasks and multitasking.",
+        "specs": "M2 Chip processor, 8GB RAM, 2TB SSD."
+    },
+    {
+        "product": "AdvancedTool 25",
+        "category": "Beauty",
+        "description": "A high-quality Tool for everyday use in the Beauty category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "AdvancedServer 26",
+        "category": "Computing",
+        "description": "Powerful Advanced Server designed for demanding tasks and multitasking.",
+        "specs": "M2 Chip processor, 8GB RAM, 512GB SSD."
+    },
+    {
+        "product": "MaxKit 27",
+        "category": "Home & Kitchen",
+        "description": "A high-quality Kit for everyday use in the Home & Kitchen category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "EcoProduct 28",
+        "category": "Home & Kitchen",
+        "description": "A high-quality Product for everyday use in the Home & Kitchen category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "LiteSoundbar 29",
+        "category": "Audio",
+        "description": "Lite audio device with immersive sound and Active cancellation.",
+        "specs": "Bluetooth 5.3, 20Hz-20kHz frequency range, 50h battery life."
+    },
+    {
+        "product": "ProProduct 30",
+        "category": "Books",
+        "description": "A high-quality Product for everyday use in the Books category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "LiteTool 31",
+        "category": "Home & Kitchen",
+        "description": "A high-quality Tool for everyday use in the Home & Kitchen category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "PremiumAccessory 32",
+        "category": "Wearables",
+        "description": "A high-quality Accessory for everyday use in the Wearables category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "UltraKit 33",
+        "category": "Wearables",
+        "description": "A high-quality Kit for everyday use in the Wearables category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "AdvancedTool 34",
+        "category": "Office",
+        "description": "A high-quality Tool for everyday use in the Office category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "PremiumDesktop 35",
+        "category": "Computing",
+        "description": "Powerful Premium Desktop designed for demanding tasks and multitasking.",
+        "specs": "M2 Chip processor, 64GB RAM, 512GB SSD."
+    },
+    {
+        "product": "LiteLaptop 36",
+        "category": "Computing",
+        "description": "Powerful Lite Laptop designed for demanding tasks and multitasking.",
+        "specs": "M2 Chip processor, 16GB RAM, 2TB SSD."
+    },
+    {
+        "product": "LiteTool 37",
+        "category": "Beauty",
+        "description": "A high-quality Tool for everyday use in the Beauty category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "UltraKit 38",
+        "category": "Peripherals",
+        "description": "A high-quality Kit for everyday use in the Peripherals category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "SmartTool 39",
+        "category": "Home & Kitchen",
+        "description": "A high-quality Tool for everyday use in the Home & Kitchen category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "EcoAccessory 40",
+        "category": "Office",
+        "description": "A high-quality Accessory for everyday use in the Office category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "MaxDumbbells 41",
+        "category": "Fitness",
+        "description": "Enhance your workout with this Max Dumbbells.",
+        "specs": "Eco-friendly material, 250lb capacity, Lifetime durability."
+    },
+    {
+        "product": "EliteProduct 42",
+        "category": "Home & Kitchen",
+        "description": "A high-quality Product for everyday use in the Home & Kitchen category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "EcoCamera 43",
+        "category": "Smart Home",
+        "description": "Automate your living space with this Eco Camera.",
+        "specs": "WiFi 6, Proprietary app control, Alexa/Google assistant compatible."
+    },
+    {
+        "product": "MaxKit 44",
+        "category": "Peripherals",
+        "description": "A high-quality Kit for everyday use in the Peripherals category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "PremiumSoundbar 45",
+        "category": "Audio",
+        "description": "Premium audio device with immersive sound and Active cancellation.",
+        "specs": "Bluetooth 5.3, 10Hz-40kHz frequency range, 50h battery life."
+    },
+    {
+        "product": "SmartLock 46",
+        "category": "Smart Home",
+        "description": "Automate your living space with this Smart Lock.",
+        "specs": "WiFi 6, Proprietary app control, Alexa/Google assistant compatible."
+    },
+    {
+        "product": "EcoTool 47",
+        "category": "Books",
+        "description": "A high-quality Tool for everyday use in the Books category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "SmartTreadmill 48",
+        "category": "Fitness",
+        "description": "Enhance your workout with this Smart Treadmill.",
+        "specs": "Eco-friendly material, 250lb capacity, Lifetime durability."
+    },
+    {
+        "product": "EssentialKit 49",
+        "category": "Books",
+        "description": "A high-quality Kit for everyday use in the Books category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "PremiumYoga Mat 50",
+        "category": "Fitness",
+        "description": "Enhance your workout with this Premium Yoga Mat.",
+        "specs": "Eco-friendly material, 250lb capacity, Lifetime durability."
+    },
+    {
+        "product": "AdvancedTool 51",
+        "category": "Peripherals",
+        "description": "A high-quality Tool for everyday use in the Peripherals category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "SmartBike 52",
+        "category": "Fitness",
+        "description": "Enhance your workout with this Smart Bike.",
+        "specs": "Eco-friendly material, 250lb capacity, Lifetime durability."
+    },
+    {
+        "product": "ProKit 53",
+        "category": "Home & Kitchen",
+        "description": "A high-quality Kit for everyday use in the Home & Kitchen category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "PremiumEarbuds 54",
+        "category": "Audio",
+        "description": "Premium audio device with immersive sound and Hybrid cancellation.",
+        "specs": "Bluetooth 5.3, 20Hz-20kHz frequency range, 40h battery life."
+    },
+    {
+        "product": "EcoAccessory 55",
+        "category": "Peripherals",
+        "description": "A high-quality Accessory for everyday use in the Peripherals category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "PremiumAccessory 56",
+        "category": "Books",
+        "description": "A high-quality Accessory for everyday use in the Books category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "EcoDesktop 57",
+        "category": "Computing",
+        "description": "Powerful Eco Desktop designed for demanding tasks and multitasking.",
+        "specs": "Intel i7 processor, 32GB RAM, 2TB SSD."
+    },
+    {
+        "product": "MaxWorkstation 58",
+        "category": "Computing",
+        "description": "Powerful Max Workstation designed for demanding tasks and multitasking.",
+        "specs": "Intel i7 processor, 8GB RAM, 1TB SSD."
+    },
+    {
+        "product": "EcoDumbbells 59",
+        "category": "Fitness",
+        "description": "Enhance your workout with this Eco Dumbbells.",
+        "specs": "Eco-friendly material, 250lb capacity, Lifetime durability."
+    },
+    {
+        "product": "EcoSpeaker 60",
+        "category": "Audio",
+        "description": "Eco audio device with immersive sound and Active cancellation.",
+        "specs": "Bluetooth 5.3, 20Hz-20kHz frequency range, 50h battery life."
+    },
+    {
+        "product": "EliteCamera 61",
+        "category": "Electronics",
+        "description": "A high-definition Camera featuring Elite technology.",
+        "specs": "1080p resolution, 10h battery, HDMI connectivity."
+    },
+    {
+        "product": "PremiumKit 62",
+        "category": "Books",
+        "description": "A high-quality Kit for everyday use in the Books category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "UltraKit 63",
+        "category": "Wearables",
+        "description": "A high-quality Kit for everyday use in the Wearables category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "MaxKit 64",
+        "category": "Home & Kitchen",
+        "description": "A high-quality Kit for everyday use in the Home & Kitchen category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "UltraProduct 65",
+        "category": "Home & Kitchen",
+        "description": "A high-quality Product for everyday use in the Home & Kitchen category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "EcoTool 66",
+        "category": "Beauty",
+        "description": "A high-quality Tool for everyday use in the Beauty category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "LiteKit 67",
+        "category": "Books",
+        "description": "A high-quality Kit for everyday use in the Books category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "MaxProjector 68",
+        "category": "Electronics",
+        "description": "A high-definition Projector featuring Max technology.",
+        "specs": "8K resolution, 20h battery, USB-C connectivity."
+    },
+    {
+        "product": "EssentialBike 69",
+        "category": "Fitness",
+        "description": "Enhance your workout with this Essential Bike.",
+        "specs": "Eco-friendly material, 250lb capacity, Lifetime durability."
+    },
+    {
+        "product": "PremiumKit 70",
+        "category": "Wearables",
+        "description": "A high-quality Kit for everyday use in the Wearables category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "EcoKit 71",
+        "category": "Office",
+        "description": "A high-quality Kit for everyday use in the Office category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "PremiumAccessory 72",
+        "category": "Books",
+        "description": "A high-quality Accessory for everyday use in the Books category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "EliteProduct 73",
+        "category": "Beauty",
+        "description": "A high-quality Product for everyday use in the Beauty category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "EssentialKit 74",
+        "category": "Peripherals",
+        "description": "A high-quality Kit for everyday use in the Peripherals category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "EliteTool 75",
+        "category": "Wearables",
+        "description": "A high-quality Tool for everyday use in the Wearables category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "SmartLock 76",
+        "category": "Smart Home",
+        "description": "Automate your living space with this Smart Lock.",
+        "specs": "WiFi 6, Proprietary app control, Alexa/Google assistant compatible."
+    },
+    {
+        "product": "SmartThermostat 77",
+        "category": "Smart Home",
+        "description": "Automate your living space with this Smart Thermostat.",
+        "specs": "WiFi 6, Proprietary app control, Alexa/Google assistant compatible."
+    },
+    {
+        "product": "PremiumDumbbells 78",
+        "category": "Fitness",
+        "description": "Enhance your workout with this Premium Dumbbells.",
+        "specs": "Eco-friendly material, 250lb capacity, Lifetime durability."
+    },
+    {
+        "product": "ProAccessory 79",
+        "category": "Wearables",
+        "description": "A high-quality Accessory for everyday use in the Wearables category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "AdvancedKit 80",
+        "category": "Beauty",
+        "description": "A high-quality Kit for everyday use in the Beauty category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "PremiumTool 81",
+        "category": "Wearables",
+        "description": "A high-quality Tool for everyday use in the Wearables category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "SmartTool 82",
+        "category": "Books",
+        "description": "A high-quality Tool for everyday use in the Books category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "AdvancedHeadphones 83",
+        "category": "Audio",
+        "description": "Advanced audio device with immersive sound and Active cancellation.",
+        "specs": "Bluetooth 5.3, 10Hz-40kHz frequency range, 20h battery life."
+    },
+    {
+        "product": "MaxProjector 84",
+        "category": "Electronics",
+        "description": "A high-definition Projector featuring Max technology.",
+        "specs": "4K resolution, 40h battery, Wireless connectivity."
+    },
+    {
+        "product": "MaxProduct 85",
+        "category": "Books",
+        "description": "A high-quality Product for everyday use in the Books category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "PremiumDumbbells 86",
+        "category": "Fitness",
+        "description": "Enhance your workout with this Premium Dumbbells.",
+        "specs": "Eco-friendly material, 250lb capacity, Lifetime durability."
+    },
+    {
+        "product": "PremiumAccessory 87",
+        "category": "Peripherals",
+        "description": "A high-quality Accessory for everyday use in the Peripherals category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "EcoTool 88",
+        "category": "Books",
+        "description": "A high-quality Tool for everyday use in the Books category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "EssentialKit 89",
+        "category": "Beauty",
+        "description": "A high-quality Kit for everyday use in the Beauty category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "AdvancedProduct 90",
+        "category": "Beauty",
+        "description": "A high-quality Product for everyday use in the Beauty category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "LiteKit 91",
+        "category": "Books",
+        "description": "A high-quality Kit for everyday use in the Books category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "ProThermostat 92",
+        "category": "Smart Home",
+        "description": "Automate your living space with this Pro Thermostat.",
+        "specs": "WiFi 6, Proprietary app control, Alexa/Google assistant compatible."
+    },
+    {
+        "product": "UltraLaptop 93",
+        "category": "Computing",
+        "description": "Powerful Ultra Laptop designed for demanding tasks and multitasking.",
+        "specs": "Intel i7 processor, 16GB RAM, 2TB SSD."
+    },
+    {
+        "product": "UltraProduct 94",
+        "category": "Peripherals",
+        "description": "A high-quality Product for everyday use in the Peripherals category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "MaxKit 95",
+        "category": "Books",
+        "description": "A high-quality Kit for everyday use in the Books category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "PremiumTablet 96",
+        "category": "Electronics",
+        "description": "A high-definition Tablet featuring Premium technology.",
+        "specs": "1080p resolution, 40h battery, USB-C connectivity."
+    },
+    {
+        "product": "MaxAccessory 97",
+        "category": "Wearables",
+        "description": "A high-quality Accessory for everyday use in the Wearables category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "SmartProduct 98",
+        "category": "Peripherals",
+        "description": "A high-quality Product for everyday use in the Peripherals category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "UltraProduct 99",
+        "category": "Books",
+        "description": "A high-quality Product for everyday use in the Books category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    },
+    {
+        "product": "EssentialAccessory 100",
+        "category": "Books",
+        "description": "A high-quality Accessory for everyday use in the Books category.",
+        "specs": "Universal fit, durable design, 1-year warranty."
+    }
+]
